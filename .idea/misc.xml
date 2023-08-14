@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="sdkUUID" value="4e9b254a-5832-4819-a207-6eae1994806a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (bdd_calculator)" project-jdk-type="Python SDK" />
+</project>
